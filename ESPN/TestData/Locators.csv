@@ -1,0 +1,13 @@
+LocatorID,Android
+LoginpagefaceWaitforElement,btn_fbook_sign_in
+Loginbuttowithwebview,btn_signin
+Webviewusername,#usernanerow
+Webviewpasword,#passwordrow
+signuplater,tv_start_trial
+ESPNlogo,Drawer is open
+SubmenuSports,Sports
+sunmenuSportsLink,sports_listview
+menusearch,menu_search
+settingslabel,More options
+clicksettingbutton,title:Settings
+settingeditalert,label:Edit Alerts
